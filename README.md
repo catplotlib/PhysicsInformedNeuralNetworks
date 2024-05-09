@@ -99,4 +99,4 @@ The implementation of Physics-Informed Neural Networks in this repository is bas
 
 - M. Raissi, P. Perdikaris, and G. E. Karniadakis. "Physics-Informed Neural Networks: A Deep Learning Framework for Solving Forward and Inverse Problems Involving Nonlinear Partial Differential Equations." Journal of Computational Physics, 2019.
 
-Special thanks to the authors for their groundbreaking work in this field.
+Special thanks to the authors for their groundbreaking work in this field.# PhysicsInformedNeuralNetworks
